@@ -1,1 +1,1 @@
-project for object Detection
+Faster RCNN object Detection
